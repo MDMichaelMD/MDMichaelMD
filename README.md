@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Helping me navigate GITHUB
 - 📫 How to reach me ... N/a atm
 - 😄 Pronouns: ...Your awesomeness
-- ⚡ Fun fact: ... I am a biomedical engineer... I have not touched code in a long time
+- ⚡ Fun fact: ... I am a biomedical engineer... e
 
 <!---
 MDMichaelMD/MDMichaelMD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
