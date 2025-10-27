@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDMichaelMD
 - 👀 I’m interested in Engineering and Medicine
-- 🌱 I’m currently learning ... MCAT topics and extra things I probs should not
+- 🌱 I’m currently learning ... Medical topics and extra things I probs should not
 - 💞️ I’m looking to collaborate on ... Helping me navigate GITHUB
 - 📫 How to reach me ... N/a atm
 - 😄 Pronouns: ...Your awesomeness
